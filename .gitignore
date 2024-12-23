@@ -1,2 +1,4 @@
 /node_modules
 /.tap
+/package.json
+/package-lock.json
